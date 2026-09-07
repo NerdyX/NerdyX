@@ -32,5 +32,14 @@
 
 ### Connect & Collaborate
 
-* **Website:** [nrdxlab.com](https://nrdxlab.com)
-* **𝕏:** Company [@NerdyXLabs](https://x.com/NerdyXLabs) | Profile [@NerdyX90](https://x.com/NerdyX90)
+<p align="left">
+  <a href="https://nrdxlab.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Website-nrdxlab.com-0A0A0A?style=for-the-badge&logo=safari&logoColor=FF6A00" alt="Website" />
+  </a>
+  <a href="https://x.com/NerdyXLabs" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Company-%40NerdyXLabs-0A0A0A?style=for-the-badge&logo=x&logoColor=FF6A00" alt="@NerdyXLabs" />
+  </a>
+  <a href="https://x.com/NerdyX90" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Personal-%40NerdyX90-0A0A0A?style=for-the-badge&logo=x&logoColor=FF6A00" alt="@NerdyX90" />
+  </a>
+</p>
