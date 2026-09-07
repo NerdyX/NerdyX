@@ -1,4 +1,4 @@
-# Welcome to My Github
+# Welcome to NerdyX Lab
 
 {NRDX} Lab is a systems research and engineering venture designing resilient digital infrastructure. We specialize in building secure, non-custodial transaction rails, multi-chain settlement protocols, and sovereign AI tooling designed for maximum autonomy, privacy, and integrity.
 
@@ -21,9 +21,9 @@
 
 ### Featured Initiatives
 
-* **IntraPay** — Enterprise-grade non-custodial payment and settlement engine built for stablecoin ecosystems.
-* **Xocial** — Web3 native creator platform prioritizing asset ownership & direct peer interactions.
-* **{XRPL}OS** — Modular developer tooling and infrastructure libraries for next-generation decentralized ledgers.
+* **IntraPay** — Enterprise-grade non-custodial wallet and settlement engine.
+* **Xocial** — Creator platform prioritizing asset ownership.
+* **{XRPL}OS** — Dynamic native network management gateway.
 
 ---
 
