@@ -13,8 +13,8 @@
 ---
 
 <h2 align="center"> Competencies </h2>
-<h4 align="left"> Languages </h4>
-<p align="left">
+<h4 align="center"> Languages </h4>
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/rust" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/>
   </a>
@@ -38,8 +38,8 @@
   </a>
 </p>
 
-<h4 align="left">Frameworks & Client</h3>
-<p align="left">
+<h4 align="center">Frameworks & Client</h3>
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/svelte" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=svelte" alt="svelte" width="40" height="40"/>
   </a>
@@ -66,8 +66,8 @@
   </a>
 </p>
 
-<h4 align="left">Infrastructure, Data & Primitives</h3>
-<p align="left">
+<h4 align="center">Infrastructure, Data & Primitives</h3>
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/>
   </a>
@@ -118,9 +118,9 @@
 
 ---
 
-### Links
+###
 
-<p align="left">
+<p align="center">
   <a href="https://nrdxlab.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Website-nrdxlab.com-0A0A0A?style=for-the-badge&logo=safari&logoColor=FF6A00" alt="Website" />
   </a>
