@@ -1,16 +1,33 @@
-## Under construction.. Stand by. 
+# Welcome to My Github
 
-<!--
-**NerdyX/NerdyX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+{NRDX} Lab is a systems research and engineering venture designing resilient digital infrastructure. We specialize in building secure, non-custodial transaction rails, multi-chain settlement protocols, and sovereign AI tooling designed for maximum autonomy, privacy, and integrity.
 
-Here are some ideas to get you started:
+* **Decentralized Finance & Settlement:** Protocol architecture, self-custodial payment engines, and cross-network asset mobility.
+* **Autonomous Intelligence:** Edge AI systems, deterministic agent orchestration, and private compute pipelines.
+* **Systems & Cryptography:** Security-first system design, resilient microservices, and next-generation cryptographic primitives.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Core Competencies
+
+| Layer | Capabilities & Focus |
+| :--- | :--- |
+| **Distributed Systems** | Protocol integration, settlement rails, consensus engines, distributed state machines |
+| **Systems & Application** | High-performance backend services, real-time networking, declarative environments |
+| **Interfaces & Client Apps** | Native cross-platform applications, responsive systems, modern reactive frontends |
+| **Security & Operations** | Sovereign infrastructure, cryptographic safety, zero-trust perimeter configuration |
+
+---
+
+### Featured Initiatives
+
+* **IntraPay** — Enterprise-grade non-custodial payment and settlement engine built for stablecoin ecosystems.
+* **Xocial** — Web3 native creator platform prioritizing asset ownership & direct peer interactions.
+* **{XRPL}OS** — Modular developer tooling and infrastructure libraries for next-generation decentralized ledgers.
+
+---
+
+### Connect & Collaborate
+
+* **Website:** [nrdxlab.com](https://nrdxlab.com)
+* **𝕏:** Company [@NerdyXLabs](https://x.com/NerdyXLabs) | Profile [@NerdyX90](https://x.com/NerdyX90)
