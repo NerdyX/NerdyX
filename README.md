@@ -30,7 +30,7 @@
 
 ---
 
-### Connect & Collaborate
+### Links
 
 <p align="left">
   <a href="https://nrdxlab.com" target="_blank" rel="noreferrer">
