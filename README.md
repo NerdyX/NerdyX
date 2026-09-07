@@ -1,7 +1,9 @@
-<h1 align="center">Welcome to NerdyX Lab</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=1&pause=1000&color=FFFFFF&background=0D1117&center=true&vCenter=true&multiline=false&width=520&height=64&lines=Welcome+to+NerdyX+Lab" alt="Welcome to NerdyX Lab" />
+</p>
 
 <p align="center">
-{NRDX} Lab is a systems research and engineering venture designing resilient digital infrastructure. We specialize in building secure, non-custodial transaction rails, multi-chain settlement protocols, and sovereign AI tooling designed for autonomy, privacy, and integrity.
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=15&color=FFFFFF&background=0D1117&center=true&vCenter=true&multiline=true&width=840&height=70&lines={NRDX}+Lab+is+a+systems+research+and+engineering+venture+designing+resilient+digital+infrastructure.;We+specialize+in+building+secure%2C+non-custodial+transaction+rails%2C+multi-chain+settlement+protocols%2C;and+sovereign+AI+tooling+designed+for+autonomy%2C+privacy%2C+and+integrity." alt="{NRDX} Lab Overview" />
 </p>
 
 <h2 align="center"> </h2>
