@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to NerdyX Lab</h1>
 
 <p align="center">
-{NRDX} Lab is a systems research and engineering venture designing resilient digital infrastructure. We specialize in building secure, non-custodial transaction rails, multi-chain settlement protocols, and sovereign AI tooling designed for maximum autonomy, privacy, and integrity.
+{NRDX} Lab is a systems research and engineering venture designing resilient digital infrastructure. We specialize in building secure, non-custodial transaction rails, multi-chain settlement protocols, and sovereign AI tooling designed for autonomy, privacy, and integrity.
 </p>
 
 ### Focus Areas
