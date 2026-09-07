@@ -36,7 +36,7 @@
   <a href="https://nrdxlab.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Website-nrdxlab.com-0A0A0A?style=for-the-badge&logo=safari&logoColor=FF6A00" alt="Website" />
   </a>
-  <a href="https://x.com/NerdyXLabs" target="_blank" rel="noreferrer">
+  <a href="https://x.com/NerdyXLab" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Company-%40NerdyXLabs-0A0A0A?style=for-the-badge&logo=x&logoColor=FF6A00" alt="@NerdyXLabs" />
   </a>
   <a href="https://x.com/NerdyX90" target="_blank" rel="noreferrer">
