@@ -4,7 +4,7 @@
 {NRDX} Lab is a systems research and engineering venture designing resilient digital infrastructure. We specialize in building secure, non-custodial transaction rails, multi-chain settlement protocols, and sovereign AI tooling designed for autonomy, privacy, and integrity.
 </p>
 
-### Focus Areas
+<h2 align="center"> </h2>
 
 * **Decentralized Finance & Settlement:** Protocol architecture, self-custodial payment engines, and cross-network asset mobility.
 * **Autonomous Intelligence:** Edge AI systems, deterministic agent orchestration, and private compute pipelines.
